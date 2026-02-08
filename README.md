@@ -21,15 +21,6 @@ project/
 	└── test_pipeline.py
 ```
 
-The code is organised into clearly separated functions:
-
-- `load_data(year)`
-- `validate_data(births_df, pop_df)`
-- `calculate_births(births_df)`
-- `calculate_birth_rate(births_aggs, pop_df, year)`
-- `aggregate_outputs(outputs)`
-- `save_outputs(outputs, year)`
-- `main(year, out_dir="outputs")`
 
 ## Quick start for analysts
 

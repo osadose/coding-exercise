@@ -1,8 +1,7 @@
 """Births processing pipeline.
 
 Analysts:
-    - Import and call main(2023) from a notebook, OR
-    - Run from the command line: python births_pipeline.py --year 2023
+    - Run from the command line: python births_pipeline.py --year 2024 --out-dir outputs
 
 Developers:
     - Maintain and extend individual functions below (load/validate/calculate/aggregate/save).
