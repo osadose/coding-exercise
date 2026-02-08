@@ -63,7 +63,7 @@ outputs["by_region"].head()
 Run the standard test suite to ensure the pipeline can execute end-to-end on the data and emit all of the expected CSVs:
 
 ```bash
-python -m pytest tests/test_pipeline.py
+python -m pytest tests
 ```
 
 ## Documentation
