@@ -1,0 +1,18 @@
+/.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Node modules (in case someone adds JS tooling)
+node_modules/
+
+# Mac artifacts
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Pipeline outputs
+outputs/
