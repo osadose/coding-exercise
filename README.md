@@ -40,15 +40,6 @@ pip install -r requirements.txt
 python births_pipeline.py --year 2024 --out-dir outputs
 ```
 
-Or from a notebook / Python session:
-
-```python
-import births_pipeline
-
-outputs = births_pipeline.main(2024, out_dir="outputs")
-outputs["by_region"].head()
-```
-
 ## Testing
 
 Run the standard test suite to ensure the pipeline can execute end-to-end on the data and emit all of the expected CSVs:
