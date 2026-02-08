@@ -1,0 +1,335 @@
+unique_id,dobyr,dob,btype,sex,place_of_birth,place_of_birth_type,dob_m
+3,2023,13/07/2023,Live birth,1,RegionA,Clinic,18/12/1987
+4,2023,02/07/2023,Live birth,1,RegionA,Hospital,02/02/1993
+5,2023,06/09/2023,Live birth,2,RegionD,Clinic,19/07/2008
+6,2023,29/09/2023,Stillbirth,2,RegionA,Clinic,30/05/1988
+8,2023,27/06/2023,Live birth,1,RegionB,Home,11/09/1984
+10,2023,11/12/2023,Live birth,2,RegionB,Other,22/05/1983
+13,2023,31/07/2023,Live birth,1,NA,Home,19/03/1986
+15,2023,01/01/2023,Live birth,1,RegionD,Hospital,05/08/1998
+16,2023,13/09/2023,Stillbirth,1,RegionC,Other,18/12/2000
+22,2023,08/09/2023,Stillbirth,1,RegionA,Clinic,23/03/1995
+32,2023,31/03/2023,Live birth,2,RegionA,Clinic,09/03/1982
+33,2023,15/01/2023,Stillbirth,2,RegionB,Clinic,26/08/1982
+36,2023,22/08/2023,Stillbirth,1,RegionA,Clinic,26/02/1985
+39,2023,13/11/2023,Live birth,2,RegionA,Home,25/07/1993
+40,2023,08/07/2023,Live birth,2,RegionA,Clinic,30/12/1983
+44,2023,16/04/2023,Live birth,2,RegionC,Home,10/09/2009
+45,2023,09/07/2023,Live birth,2,RegionB,Hospital,01/11/1990
+46,2023,15/07/2023,Live birth,2,RegionA,Clinic,12/12/2007
+47,2023,15/07/2023,Live birth,2,RegionA,Hospital,24/10/2002
+50,2023,08/11/2023,Live birth,1,RegionD,Home,09/08/1991
+51,2023,02/11/2023,Stillbirth,2,NA,Home,13/01/1997
+52,2023,07/03/2023,Live birth,2,RegionB,Other,12/12/1991
+55,2023,18/02/2023,Live birth,2,RegionD,Home,11/04/2002
+59,2023,28/01/2023,Live birth,2,RegionC,Hospital,19/07/1993
+62,2023,09/10/2023,Live birth,1,RegionB,Home,23/02/2001
+63,2023,15/12/2023,Live birth,1,RegionD,Home,03/02/2003
+64,2023,01/08/2023,Live birth,2,RegionA,Other,18/07/2002
+65,2023,17/11/2023,Live birth,1,RegionC,Home,30/01/1997
+66,2023,11/03/2023,Live birth,2,RegionA,Other,20/04/2000
+71,2023,16/06/2023,Stillbirth,2,RegionB,Clinic,23/02/1998
+75,2023,19/06/2023,Live birth,2,RegionB,Other,10/05/1987
+77,2023,03/05/2023,Live birth,1,RegionA,Home,30/01/1983
+78,2023,20/02/2023,Live birth,2,RegionB,Home,04/08/2000
+84,2023,18/06/2023,Live birth,2,RegionC,Clinic,31/05/2004
+88,2023,18/11/2023,Live birth,1,RegionC,Clinic,22/06/1985
+89,2023,16/12/2023,Stillbirth,2,RegionA,Other,16/05/2001
+92,2023,19/12/2023,Live birth,2,RegionB,Clinic,01/10/1990
+94,2023,16/09/2023,Live birth,1,RegionD,Hospital,23/10/1996
+99,2023,05/01/2023,Live birth,1,RegionA,Other,25/01/1999
+107,2023,10/07/2023,Live birth,2,RegionA,Hospital,05/04/1998
+109,2023,17/07/2023,Live birth,1,RegionC,Clinic,04/05/1991
+112,2023,27/06/2023,Stillbirth,2,RegionB,Hospital,06/08/1996
+117,2023,23/05/2023,Stillbirth,2,RegionC,Other,05/04/1996
+123,2023,05/05/2023,Live birth,2,RegionB,Hospital,03/06/1982
+124,2023,19/01/2023,Live birth,1,RegionC,Home,08/01/2009
+126,2023,17/05/2023,Live birth,1,RegionA,Clinic,02/07/1997
+129,2023,31/12/2023,Live birth,1,RegionC,Home,22/03/2004
+130,2023,13/07/2023,Stillbirth,1,RegionB,Clinic,21/07/1996
+136,2023,27/08/2023,Live birth,1,RegionA,Other,17/04/2002
+138,2023,14/01/2023,Live birth,1,RegionC,Clinic,03/10/2008
+141,2023,31/07/2023,Live birth,1,RegionA,Home,02/08/1997
+143,2023,29/05/2023,Live birth,2,RegionC,Clinic,30/01/2006
+145,2023,01/05/2023,Live birth,1,RegionC,Other,12/06/1994
+146,2023,05/06/2023,Stillbirth,2,RegionC,Hospital,25/02/1994
+148,2023,31/12/2023,Live birth,2,RegionA,Hospital,19/09/1999
+149,2023,22/07/2023,Live birth,1,RegionB,Hospital,22/11/1988
+153,2023,21/02/2023,Live birth,1,RegionA,Home,09/06/2009
+154,2023,23/12/2023,Stillbirth,2,RegionC,Clinic,14/10/2006
+157,2023,10/07/2023,Live birth,1,RegionA,Other,02/03/1999
+159,2023,01/07/2023,Stillbirth,1,RegionA,Other,19/05/2003
+160,2023,28/08/2023,Stillbirth,2,RegionC,Other,31/05/2004
+164,2023,31/08/2023,Stillbirth,2,RegionA,Home,02/05/1989
+165,2023,04/12/2023,Live birth,2,RegionB,Hospital,26/06/2000
+169,2023,04/12/2023,Live birth,1,RegionA,Home,21/01/1983
+175,2023,16/04/2023,Live birth,2,RegionB,Home,20/03/2007
+176,2023,15/01/2023,Live birth,1,RegionA,Hospital,11/12/2003
+180,2023,14/03/2023,Live birth,1,RegionC,Clinic,20/04/1988
+181,2023,27/12/2023,Live birth,2,RegionA,Home,08/10/1985
+183,2023,12/01/2023,Live birth,1,RegionD,Clinic,07/08/1991
+184,2023,22/09/2023,Stillbirth,2,RegionA,Hospital,29/07/2009
+193,2023,30/08/2023,Stillbirth,1,RegionA,Hospital,02/02/2006
+194,2023,17/08/2023,Live birth,1,RegionD,Clinic,07/03/1994
+196,2023,03/01/2023,Live birth,2,RegionA,Hospital,08/12/2007
+198,2023,24/10/2023,Live birth,2,RegionC,Hospital,08/07/2001
+200,2023,18/03/2023,Live birth,2,RegionA,Home,28/08/1998
+203,2023,09/02/2023,Live birth,1,RegionC,Clinic,11/04/1998
+205,2023,08/06/2023,Stillbirth,2,RegionA,Hospital,16/01/2004
+206,2023,01/05/2023,Live birth,2,RegionD,Other,09/09/1991
+207,2023,11/10/2023,Live birth,1,RegionB,Clinic,06/01/1991
+210,2023,16/06/2023,Stillbirth,2,RegionD,Clinic,06/08/1992
+211,2023,29/01/2023,Stillbirth,1,RegionA,Other,21/02/1986
+212,2023,10/04/2023,Stillbirth,2,RegionB,Other,27/04/1988
+214,2023,22/02/2023,Stillbirth,1,RegionC,Home,27/01/1984
+217,2023,24/11/2023,Stillbirth,1,RegionC,Clinic,22/06/1996
+219,2023,19/06/2023,Live birth,2,RegionC,Clinic,16/07/1998
+220,2023,22/03/2023,Live birth,1,RegionA,Hospital,30/03/2008
+224,2023,23/01/2023,Live birth,1,NA,Other,29/07/2001
+225,2023,13/10/2023,Live birth,2,RegionC,Other,03/06/2007
+229,2023,16/08/2023,Live birth,1,RegionA,Home,09/06/2009
+233,2023,18/02/2023,Stillbirth,1,RegionA,Other,26/01/2008
+236,2023,20/07/2023,Live birth,2,NA,Other,11/03/1989
+240,2023,10/02/2023,Stillbirth,2,RegionA,Hospital,04/09/2008
+248,2023,07/03/2023,Live birth,2,RegionA,Hospital,16/02/1993
+250,2023,14/10/2023,Live birth,2,RegionA,Other,17/12/2000
+252,2023,20/02/2023,Live birth,2,RegionA,Hospital,16/05/1983
+253,2023,09/06/2023,Live birth,1,RegionB,Other,20/08/1989
+255,2023,03/12/2023,Stillbirth,2,RegionB,Home,13/09/1999
+257,2023,14/12/2023,Live birth,2,RegionC,Other,31/03/1984
+263,2023,17/05/2023,Stillbirth,2,RegionB,Other,16/05/1985
+264,2023,28/01/2023,Live birth,2,RegionA,Other,12/11/1992
+266,2023,02/06/2023,Stillbirth,2,RegionA,Clinic,24/05/2002
+269,2023,05/08/2023,Live birth,1,RegionC,Hospital,27/05/2009
+278,2023,03/02/2023,Live birth,2,RegionA,Clinic,06/02/2009
+280,2023,15/07/2023,Live birth,2,RegionB,Home,26/12/2008
+283,2023,04/07/2023,Live birth,1,RegionA,Other,27/02/1985
+284,2023,04/04/2023,Live birth,2,RegionA,Home,24/08/1985
+287,2023,28/02/2023,Stillbirth,2,RegionA,Clinic,21/07/1991
+290,2023,29/11/2023,Live birth,1,RegionB,Hospital,21/11/1992
+291,2023,20/08/2023,Live birth,1,RegionB,Home,07/07/1985
+293,2023,20/10/2023,Live birth,2,RegionC,Hospital,12/01/2005
+299,2023,10/11/2023,Live birth,1,RegionD,Home,24/09/2005
+301,2023,05/11/2023,Live birth,1,RegionC,Other,23/12/1987
+305,2023,05/11/2023,Stillbirth,1,RegionD,Hospital,17/02/1992
+306,2023,20/07/2023,Live birth,2,RegionB,Clinic,21/09/1990
+307,2023,30/09/2023,Stillbirth,2,RegionA,Other,28/10/2006
+308,2023,26/01/2023,Live birth,2,RegionA,Home,27/08/1991
+311,2023,15/09/2023,Live birth,1,RegionD,Clinic,17/04/1994
+313,2023,21/12/2023,Live birth,1,RegionC,Clinic,02/03/2006
+318,2023,06/06/2023,Live birth,1,RegionB,Hospital,02/03/1986
+322,2023,31/08/2023,Live birth,2,NA,Home,03/03/1988
+325,2023,26/05/2023,Live birth,1,RegionB,Other,08/03/2000
+326,2023,27/08/2023,Live birth,2,NA,Hospital,06/10/1992
+328,2023,06/03/2023,Live birth,2,RegionC,Home,22/02/2003
+334,2023,17/10/2023,Live birth,1,RegionA,Home,16/02/2007
+335,2023,23/08/2023,Live birth,1,RegionA,Other,23/01/1990
+339,2023,14/08/2023,Live birth,2,RegionA,Home,27/02/1985
+342,2023,15/04/2023,Stillbirth,1,RegionB,Other,19/12/1998
+343,2023,14/04/2023,Stillbirth,1,RegionC,Hospital,05/11/1988
+345,2023,23/10/2023,Stillbirth,2,RegionA,Home,22/08/2007
+347,2023,27/06/2023,Live birth,1,RegionB,Hospital,08/11/1988
+348,2023,09/05/2023,Live birth,1,RegionA,Home,10/04/1989
+354,2023,17/05/2023,Stillbirth,2,RegionA,Hospital,24/05/1987
+356,2023,08/02/2023,Stillbirth,1,RegionA,Other,01/03/1997
+358,2023,30/10/2023,Stillbirth,2,RegionD,Other,09/09/1989
+360,2023,13/02/2023,Live birth,2,RegionA,Home,08/11/1985
+362,2023,23/05/2023,Live birth,2,RegionB,Hospital,07/11/1987
+364,2023,08/09/2023,Live birth,2,RegionA,Hospital,15/04/1996
+365,2023,27/02/2023,Live birth,2,RegionA,Hospital,14/04/2001
+367,2023,18/03/2023,Live birth,1,RegionB,Home,18/10/1990
+371,2023,11/07/2023,Live birth,2,RegionA,Other,23/05/1991
+375,2023,15/04/2023,Live birth,1,RegionA,Other,02/10/2007
+382,2023,06/01/2023,Live birth,1,RegionA,Home,09/04/2004
+389,2023,26/01/2023,Live birth,2,RegionC,Other,18/10/1994
+390,2023,28/12/2023,Stillbirth,2,RegionC,Home,17/11/1990
+393,2023,19/09/2023,Live birth,1,RegionA,Hospital,07/01/1997
+396,2023,16/06/2023,Stillbirth,1,RegionA,Other,05/08/2007
+399,2023,19/12/2023,Live birth,1,RegionA,Hospital,14/06/1999
+400,2023,19/09/2023,Live birth,1,RegionA,Clinic,02/03/2002
+401,2023,10/07/2023,Stillbirth,2,RegionA,Hospital,21/06/1990
+402,2023,30/07/2023,Stillbirth,2,RegionA,Clinic,14/06/2007
+404,2023,04/02/2023,Live birth,2,RegionA,Other,20/09/1994
+405,2023,15/03/2023,Live birth,2,RegionA,Home,21/02/2005
+406,2023,24/10/2023,Live birth,1,RegionA,Clinic,14/07/1990
+407,2023,27/12/2023,Stillbirth,2,RegionC,Clinic,11/09/1994
+419,2023,09/02/2023,Live birth,2,RegionC,Home,27/02/1991
+420,2023,26/11/2023,Stillbirth,2,RegionD,Hospital,30/05/1992
+421,2023,05/07/2023,Stillbirth,1,RegionC,Home,27/06/2009
+423,2023,02/10/2023,Stillbirth,1,RegionA,Hospital,04/10/2000
+426,2023,25/02/2023,Stillbirth,2,RegionA,Clinic,05/11/2004
+430,2023,16/10/2023,Stillbirth,2,RegionB,Other,19/01/2001
+431,2023,07/09/2023,Live birth,2,RegionA,Other,02/06/1983
+433,2023,10/11/2023,Live birth,1,RegionA,Hospital,15/02/1989
+440,2023,31/05/2023,Live birth,2,RegionC,Hospital,25/06/1985
+445,2023,21/01/2023,Live birth,2,RegionD,Hospital,02/07/1998
+448,2023,25/10/2023,Live birth,2,RegionD,Clinic,10/03/1990
+450,2023,16/11/2023,Live birth,1,RegionA,Hospital,21/12/1985
+454,2023,20/09/2023,Live birth,2,RegionA,Other,06/10/1986
+457,2023,16/02/2023,Stillbirth,2,RegionB,Other,22/04/1998
+463,2023,18/07/2023,Live birth,2,RegionB,Other,08/08/1982
+465,2023,30/01/2023,Stillbirth,1,NA,Hospital,08/06/2006
+467,2023,08/04/2023,Live birth,2,RegionC,Hospital,28/01/2002
+468,2023,23/12/2023,Live birth,2,RegionA,Clinic,13/01/1993
+474,2023,25/12/2023,Live birth,1,RegionB,Hospital,08/11/2007
+478,2023,26/12/2023,Live birth,1,RegionB,Clinic,30/05/1991
+479,2023,24/02/2023,Live birth,1,RegionA,Hospital,28/03/1988
+480,2023,30/07/2023,Live birth,1,RegionB,Other,19/08/1991
+484,2023,30/01/2023,Live birth,1,RegionA,Home,26/07/2000
+486,2023,05/11/2023,Live birth,1,RegionC,Other,08/09/1995
+488,2023,30/07/2023,Live birth,1,RegionA,Clinic,01/05/2008
+491,2023,25/04/2023,Stillbirth,1,RegionA,Clinic,09/09/1997
+503,2023,11/05/2023,Live birth,2,RegionA,Hospital,05/03/1989
+507,2023,05/10/2023,Live birth,1,RegionB,Clinic,23/10/2009
+511,2023,24/07/2023,Live birth,1,RegionA,Hospital,23/11/1989
+515,2023,08/10/2023,Live birth,2,RegionA,Home,30/11/1988
+516,2023,23/03/2023,Live birth,1,RegionD,Other,21/03/1991
+518,2023,07/02/2023,Live birth,2,RegionA,Other,01/08/1983
+519,2023,20/08/2023,Live birth,2,RegionB,Home,31/10/2000
+520,2023,21/12/2023,Stillbirth,2,RegionA,Other,29/03/1988
+521,2023,11/09/2023,Live birth,2,RegionB,Hospital,07/01/2003
+522,2023,20/09/2023,Stillbirth,2,RegionC,Clinic,17/12/2009
+526,2023,28/06/2023,Stillbirth,2,RegionD,Hospital,15/07/1995
+528,2023,02/01/2023,Live birth,1,RegionD,Home,12/03/1987
+529,2023,04/09/2023,Live birth,2,RegionC,Hospital,29/07/2003
+534,2023,17/07/2023,Live birth,1,RegionC,Clinic,28/12/1983
+536,2023,09/07/2023,Stillbirth,1,RegionA,Home,14/05/1998
+538,2023,08/10/2023,Live birth,2,RegionD,Other,08/07/1990
+540,2023,12/10/2023,Live birth,2,RegionA,Home,10/03/1990
+542,2023,22/12/2023,Live birth,1,RegionA,Home,28/11/1986
+543,2023,03/07/2023,Live birth,2,RegionC,Home,30/08/2000
+547,2023,12/01/2023,Live birth,2,RegionB,Clinic,23/05/2005
+548,2023,16/08/2023,Live birth,1,RegionB,Hospital,10/11/2003
+554,2023,12/02/2023,Live birth,2,RegionC,Other,17/02/1999
+558,2023,18/08/2023,Live birth,1,RegionB,Clinic,26/04/1998
+559,2023,01/03/2023,Live birth,2,RegionA,Home,03/03/1999
+566,2023,25/04/2023,Stillbirth,2,RegionB,Other,07/04/1998
+568,2023,17/12/2023,Live birth,2,RegionA,Other,16/10/1999
+580,2023,08/05/2023,Stillbirth,2,RegionC,Other,21/04/2006
+581,2023,27/10/2023,Stillbirth,1,RegionD,Other,10/07/1997
+583,2023,22/04/2023,Live birth,2,RegionB,Other,30/10/1989
+586,2023,29/11/2023,Live birth,2,NA,Other,09/05/1994
+590,2023,24/04/2023,Stillbirth,1,RegionB,Hospital,15/07/1996
+593,2023,25/10/2023,Stillbirth,2,RegionA,Other,16/10/1998
+595,2023,05/04/2023,Live birth,1,RegionB,Other,13/07/1986
+596,2023,01/08/2023,Stillbirth,1,RegionC,Hospital,04/07/1991
+597,2023,25/08/2023,Live birth,1,RegionC,Hospital,26/02/1988
+599,2023,25/02/2023,Stillbirth,1,RegionB,Hospital,22/05/2006
+608,2023,12/03/2023,Live birth,2,RegionB,Hospital,15/07/1998
+620,2023,01/07/2023,Stillbirth,1,RegionC,Hospital,05/05/1985
+621,2023,10/03/2023,Live birth,2,RegionC,Home,30/01/2001
+638,2023,19/06/2023,Stillbirth,2,RegionA,Hospital,02/01/1985
+639,2023,03/12/2023,Live birth,1,NA,Home,05/12/1994
+641,2023,03/12/2023,Live birth,1,RegionB,Home,16/01/1984
+643,2023,16/05/2023,Stillbirth,1,RegionA,Other,20/11/1983
+650,2023,14/09/2023,Stillbirth,2,RegionC,Clinic,10/06/2003
+652,2023,13/11/2023,Live birth,2,RegionC,Home,04/12/2001
+656,2023,16/09/2023,Live birth,1,RegionD,Hospital,28/08/1997
+659,2023,23/09/2023,Live birth,1,RegionA,Clinic,24/08/1997
+664,2023,06/07/2023,Live birth,2,RegionB,Home,15/02/2004
+667,2023,01/08/2023,Stillbirth,2,RegionA,Home,07/08/1985
+669,2023,11/09/2023,Stillbirth,2,RegionC,Clinic,21/11/1988
+676,2023,03/06/2023,Stillbirth,2,RegionA,Hospital,19/12/1983
+677,2023,10/04/2023,Stillbirth,2,RegionD,Hospital,01/06/1993
+679,2023,11/04/2023,Live birth,1,RegionB,Home,22/09/1982
+689,2023,06/01/2023,Live birth,1,RegionC,Hospital,08/04/1991
+691,2023,16/02/2023,Live birth,2,RegionB,Clinic,20/06/1982
+692,2023,24/07/2023,Live birth,2,RegionB,Other,06/06/2001
+693,2023,18/08/2023,Live birth,1,RegionA,Clinic,06/09/1997
+695,2023,15/09/2023,Live birth,1,RegionB,Home,22/04/1995
+698,2023,26/02/2023,Live birth,2,RegionA,Hospital,05/08/2001
+700,2023,19/10/2023,Stillbirth,1,RegionB,Home,17/01/1997
+705,2023,30/01/2023,Live birth,1,RegionA,Hospital,15/06/2004
+707,2023,25/08/2023,Live birth,1,RegionB,Other,28/10/1992
+709,2023,27/12/2023,Stillbirth,2,RegionB,Other,19/07/2003
+711,2023,12/03/2023,Live birth,1,RegionC,Other,23/03/2003
+715,2023,08/08/2023,Stillbirth,2,RegionB,Other,19/05/1998
+717,2023,27/10/2023,Live birth,1,RegionA,Clinic,05/12/2002
+721,2023,05/12/2023,Stillbirth,2,RegionD,Clinic,04/04/1991
+722,2023,05/07/2023,Live birth,2,RegionD,Home,09/10/1988
+723,2023,03/03/2023,Live birth,2,RegionD,Hospital,03/12/1994
+727,2023,24/06/2023,Stillbirth,2,RegionD,Hospital,23/10/1988
+733,2023,03/02/2023,Live birth,1,RegionB,Other,11/12/1983
+743,2023,12/08/2023,Stillbirth,2,RegionA,Other,04/11/1999
+756,2023,26/12/2023,Live birth,2,RegionA,Hospital,12/10/1985
+759,2023,05/07/2023,Live birth,1,RegionA,Home,09/12/1985
+761,2023,03/02/2023,Live birth,1,RegionD,Hospital,20/04/1996
+766,2023,13/12/2023,Stillbirth,2,RegionA,Home,24/05/2001
+772,2023,17/09/2023,Live birth,2,RegionB,Hospital,19/09/2002
+779,2023,03/09/2023,Live birth,1,RegionB,Hospital,03/09/2004
+783,2023,18/12/2023,Live birth,1,RegionA,Other,10/11/1999
+784,2023,18/12/2023,Live birth,1,RegionC,Hospital,20/06/1990
+788,2023,30/07/2023,Stillbirth,2,NA,Clinic,01/05/1993
+790,2023,24/07/2023,Live birth,2,RegionB,Clinic,20/09/1982
+792,2023,03/07/2023,Live birth,1,RegionA,Other,04/06/1997
+793,2023,13/01/2023,Stillbirth,1,RegionA,Hospital,27/05/1987
+796,2023,16/07/2023,Live birth,1,RegionD,Home,19/12/1994
+797,2023,11/10/2023,Live birth,2,RegionA,Hospital,16/02/1994
+802,2023,11/04/2023,Live birth,2,RegionA,Home,27/01/1988
+810,2023,21/11/2023,Live birth,1,RegionA,Clinic,07/12/1995
+811,2023,06/11/2023,Live birth,2,RegionD,Home,24/08/1988
+813,2023,16/08/2023,Stillbirth,2,RegionC,Clinic,26/03/1991
+816,2023,16/11/2023,Stillbirth,1,RegionA,Other,17/09/2000
+817,2023,14/08/2023,Stillbirth,1,RegionA,Home,22/07/1999
+818,2023,08/07/2023,Stillbirth,2,RegionB,Home,11/09/1991
+821,2023,11/09/2023,Stillbirth,1,RegionC,Home,31/03/1986
+822,2023,01/04/2023,Live birth,2,RegionA,Home,29/01/1989
+823,2023,19/04/2023,Stillbirth,2,RegionA,Home,31/05/2006
+825,2023,22/03/2023,Live birth,1,RegionB,Hospital,07/03/2000
+826,2023,04/03/2023,Stillbirth,2,NA,Home,13/11/2005
+828,2023,08/12/2023,Live birth,2,RegionD,Hospital,15/05/1992
+830,2023,13/12/2023,Live birth,2,RegionC,Hospital,16/10/1983
+831,2023,04/01/2023,Live birth,1,RegionC,Other,03/07/1994
+833,2023,10/10/2023,Stillbirth,2,RegionA,Home,08/01/2008
+834,2023,24/04/2023,Stillbirth,2,RegionD,Other,27/02/1994
+837,2023,25/07/2023,Live birth,1,RegionA,Hospital,23/01/1998
+839,2023,22/03/2023,Live birth,2,RegionA,Clinic,28/02/1996
+846,2023,26/03/2023,Stillbirth,1,RegionB,Clinic,25/05/1986
+848,2023,01/10/2023,Live birth,2,RegionC,Clinic,05/06/2001
+849,2023,16/09/2023,Live birth,2,RegionC,Clinic,07/11/1995
+850,2023,02/08/2023,Stillbirth,2,RegionA,Clinic,29/05/2009
+852,2023,17/07/2023,Live birth,2,RegionA,Other,10/07/1988
+857,2023,31/10/2023,Stillbirth,2,RegionC,Hospital,24/06/2005
+860,2023,09/01/2023,Live birth,2,RegionA,Clinic,10/05/1983
+864,2023,13/10/2023,Live birth,2,RegionA,Home,07/03/1987
+866,2023,04/01/2023,Live birth,1,RegionD,Other,27/01/1995
+867,2023,30/03/2023,Stillbirth,2,RegionC,Other,24/02/2007
+870,2023,24/04/2023,Stillbirth,1,RegionA,Clinic,04/09/2001
+872,2023,20/03/2023,Live birth,2,RegionC,Other,09/07/1987
+873,2023,25/05/2023,Stillbirth,1,RegionA,Clinic,05/07/1986
+877,2023,08/03/2023,Live birth,2,RegionB,Hospital,12/02/2003
+882,2023,02/02/2023,Stillbirth,1,RegionC,Hospital,02/05/1999
+884,2023,26/06/2023,Stillbirth,1,RegionA,Hospital,28/04/2005
+885,2023,24/02/2023,Live birth,2,RegionC,Home,09/04/1992
+888,2023,22/07/2023,Stillbirth,1,RegionB,Clinic,02/06/1995
+890,2023,03/01/2023,Live birth,1,RegionC,Home,20/03/2002
+900,2023,03/10/2023,Live birth,1,RegionA,Hospital,06/07/1999
+908,2023,29/08/2023,Live birth,1,RegionB,Home,27/11/2004
+911,2023,18/12/2023,Live birth,1,RegionA,Home,07/03/2003
+912,2023,22/06/2023,Live birth,1,RegionA,Clinic,10/11/2004
+917,2023,02/11/2023,Live birth,2,RegionA,Home,07/02/1993
+918,2023,24/06/2023,Stillbirth,2,RegionD,Clinic,13/06/1985
+919,2023,17/02/2023,Stillbirth,1,RegionA,Home,30/11/1990
+920,2023,19/03/2023,Live birth,2,RegionD,Home,02/12/2001
+922,2023,15/02/2023,Live birth,2,RegionB,Hospital,19/08/2002
+925,2023,30/05/2023,Live birth,2,RegionA,Clinic,21/04/1995
+933,2023,29/08/2023,Stillbirth,2,RegionA,Home,01/11/1989
+937,2023,15/07/2023,Live birth,1,RegionC,Hospital,11/01/1987
+940,2023,11/11/2023,Stillbirth,2,RegionB,Clinic,08/04/1993
+942,2023,10/06/2023,Live birth,1,RegionA,Clinic,11/12/1990
+955,2023,28/03/2023,Stillbirth,2,RegionA,Clinic,06/12/2001
+962,2023,15/09/2023,Stillbirth,2,RegionC,Other,06/11/1993
+963,2023,26/10/2023,Live birth,1,RegionA,Other,11/03/1991
+966,2023,27/03/2023,Live birth,1,RegionC,Hospital,25/12/2008
+970,2023,27/07/2023,Stillbirth,1,RegionA,Home,17/07/1987
+974,2023,11/08/2023,Live birth,2,RegionA,Other,24/02/1990
+975,2023,17/06/2023,Stillbirth,2,RegionB,Hospital,29/08/1988
+978,2023,25/09/2023,Live birth,1,RegionA,Hospital,31/10/2002
+980,2023,28/02/2023,Live birth,1,RegionC,Home,07/09/2007
+982,2023,21/08/2023,Stillbirth,2,RegionA,Home,10/02/1993
+985,2023,17/05/2023,Stillbirth,1,RegionB,Clinic,17/05/1991
+986,2023,13/07/2023,Stillbirth,2,RegionC,Clinic,17/07/1989
+989,2023,18/10/2023,Live birth,1,RegionD,Other,26/05/1989
+992,2023,30/03/2023,Live birth,1,RegionB,Home,21/11/1988
+994,2023,04/06/2023,Live birth,2,RegionC,Clinic,27/10/2003
+1004,2023,01/12/2023,Live birth,2,RegionA,Clinic,24/09/1992

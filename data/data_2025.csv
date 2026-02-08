@@ -1,0 +1,343 @@
+unique_id,dobyr,dob,birth_type,sex,place_of_birth,place_of_birth_type,dob_m
+2,2025,06/02/2025,Stillbirth,Female,RegionD,Hospital,29/10/1985
+7,2025,01/03/2025,Stillbirth,Female,RegionA,Clinic,12/10/1987
+12,2025,25/01/2025,Stillbirth,Female,RegionA,Other,12/11/1993
+20,2025,07/09/2025,Live birth,Male,NA,Other,21/11/1984
+21,2025,23/04/2025,Live birth,Male,RegionC,Hospital,27/03/1986
+25,2025,20/09/2025,Live birth,Male,RegionA,Home,17/09/1986
+27,2025,14/03/2025,Live birth,Female,RegionC,Hospital,30/11/1983
+28,2025,01/09/2025,Live birth,Male,RegionA,Clinic,30/07/1984
+30,2025,02/01/2025,Live birth,Male,RegionD,Clinic,23/12/1994
+31,2025,18/01/2025,Live birth,Male,RegionA,Hospital,02/05/2001
+35,2025,05/03/2025,Live birth,Female,RegionC,Clinic,27/09/1986
+38,2025,16/02/2025,Live birth,Female,RegionC,Clinic,22/01/2000
+41,2025,14/04/2025,Live birth,Male,RegionA,Home,28/05/1982
+42,2025,31/03/2025,Live birth,Male,RegionA,Hospital,09/03/1999
+43,2025,03/08/2025,Live birth,Male,RegionD,Home,23/10/2001
+49,2025,07/03/2025,Live birth,Female,RegionA,Home,22/10/2003
+53,2025,15/03/2025,Live birth,Male,RegionA,Other,31/10/1982
+58,2025,04/04/2025,Live birth,Female,RegionC,Clinic,13/03/1986
+67,2025,15/07/2025,Live birth,Male,RegionA,Clinic,26/01/2000
+68,2025,11/05/2025,Live birth,Female,RegionA,Other,07/05/1997
+69,2025,20/07/2025,Live birth,Female,RegionA,Clinic,20/08/1993
+72,2025,11/04/2025,Stillbirth,Male,RegionA,Clinic,18/07/1983
+73,2025,04/12/2025,Live birth,Female,RegionB,Other,17/03/2006
+74,2025,08/11/2025,Live birth,Female,RegionA,Clinic,25/12/1995
+80,2025,17/03/2025,Live birth,Male,RegionA,Home,21/12/2002
+81,2025,13/01/2025,Live birth,Male,RegionC,Other,12/10/1996
+82,2025,24/04/2025,Live birth,Female,RegionB,Other,27/05/1999
+85,2025,24/08/2025,Stillbirth,Female,RegionD,Hospital,29/10/1983
+87,2025,23/07/2025,Stillbirth,Female,RegionC,Other,13/11/1996
+93,2025,07/04/2025,Stillbirth,Female,RegionD,Home,31/12/2007
+97,2025,15/07/2025,Live birth,Male,RegionC,Clinic,26/11/1991
+98,2025,17/06/2025,Live birth,Female,RegionC,Other,10/07/1992
+102,2025,07/11/2025,Stillbirth,Male,RegionA,Hospital,27/06/2008
+103,2025,20/05/2025,Live birth,Male,RegionA,Other,14/02/1995
+106,2025,05/12/2025,Live birth,Male,RegionD,Clinic,02/04/1999
+108,2025,24/03/2025,Live birth,Male,RegionC,Clinic,17/12/1998
+110,2025,28/06/2025,Stillbirth,Male,RegionA,Other,02/06/1984
+111,2025,17/09/2025,Live birth,Male,RegionA,Home,24/12/1993
+114,2025,26/10/2025,Live birth,Male,RegionA,Hospital,02/03/2001
+115,2025,27/04/2025,Live birth,Male,RegionD,Clinic,26/12/2009
+116,2025,11/07/2025,Live birth,Male,RegionA,Hospital,13/10/1991
+118,2025,29/01/2025,Live birth,Female,RegionA,Other,09/05/1983
+119,2025,25/11/2025,Live birth,Male,RegionA,Clinic,16/04/1998
+121,2025,19/10/2025,Live birth,Female,RegionD,Home,30/01/2002
+122,2025,17/01/2025,Stillbirth,Male,RegionC,Hospital,25/01/1982
+127,2025,14/07/2025,Live birth,Female,RegionA,Clinic,27/08/1983
+131,2025,24/08/2025,Stillbirth,Female,RegionC,Hospital,30/06/1997
+134,2025,14/09/2025,Live birth,Female,RegionD,Other,25/12/2007
+135,2025,16/05/2025,Live birth,Female,RegionA,Home,28/01/2009
+139,2025,26/10/2025,Live birth,Male,RegionC,Clinic,19/04/2009
+147,2025,14/12/2025,Live birth,Male,RegionD,Other,19/09/2008
+150,2025,05/02/2025,Stillbirth,Female,RegionA,Hospital,19/02/1997
+156,2025,05/09/2025,Stillbirth,Female,RegionA,Home,18/12/2006
+158,2025,05/11/2025,Stillbirth,Male,RegionB,Clinic,09/09/1985
+161,2025,29/06/2025,Stillbirth,Female,RegionC,Other,02/03/2006
+163,2025,21/01/2025,Live birth,Female,RegionC,Other,05/11/2001
+166,2025,16/01/2025,Live birth,Female,RegionC,Hospital,24/05/1997
+167,2025,07/08/2025,Live birth,Female,RegionA,Hospital,26/08/1994
+168,2025,22/08/2025,Live birth,Male,RegionD,Home,29/06/1996
+170,2025,12/07/2025,Stillbirth,Male,RegionD,Home,18/09/2000
+171,2025,12/11/2025,Stillbirth,Female,RegionC,Other,10/07/1989
+174,2025,27/12/2025,Stillbirth,Male,RegionA,Hospital,30/05/2009
+177,2025,09/10/2025,Live birth,Male,RegionB,Other,08/01/1992
+182,2025,13/08/2025,Live birth,Female,RegionC,Home,24/07/1994
+185,2025,02/12/2025,Stillbirth,Male,RegionA,Clinic,31/10/1998
+186,2025,03/01/2025,Live birth,Male,RegionC,Home,28/09/2003
+189,2025,18/12/2025,Stillbirth,Male,RegionC,Home,26/08/1986
+190,2025,24/12/2025,Live birth,Male,RegionD,Clinic,02/05/2006
+197,2025,30/01/2025,Stillbirth,Male,RegionA,Hospital,11/02/1987
+199,2025,12/02/2025,Live birth,Female,RegionD,Clinic,28/03/1984
+202,2025,21/11/2025,Live birth,Male,RegionD,Clinic,28/07/1994
+204,2025,25/09/2025,Live birth,Male,RegionC,Home,21/02/1989
+208,2025,12/03/2025,Live birth,Male,RegionB,Hospital,24/02/1996
+209,2025,14/10/2025,Live birth,Male,RegionA,Home,07/10/1991
+213,2025,19/12/2025,Live birth,Male,RegionB,Hospital,07/02/2007
+215,2025,04/02/2025,Live birth,Male,NA,Hospital,12/02/1988
+216,2025,19/09/2025,Live birth,Female,RegionC,Home,03/11/2006
+218,2025,09/07/2025,Live birth,Female,RegionA,Home,01/08/2009
+221,2025,16/01/2025,Live birth,Female,RegionA,Hospital,16/07/2005
+222,2025,28/10/2025,Live birth,Male,RegionB,Clinic,23/07/2004
+235,2025,01/08/2025,Live birth,Female,RegionC,Hospital,11/09/2008
+237,2025,28/07/2025,Live birth,Male,NA,Clinic,26/09/1994
+238,2025,01/12/2025,Stillbirth,Female,RegionC,Clinic,10/06/1982
+239,2025,07/04/2025,Live birth,Female,RegionD,Hospital,15/05/1999
+242,2025,15/01/2025,Stillbirth,Female,RegionA,Home,06/01/1996
+244,2025,28/01/2025,Stillbirth,Female,RegionC,Other,30/12/1982
+245,2025,03/06/2025,Stillbirth,Female,RegionC,Hospital,03/09/1990
+246,2025,22/02/2025,Live birth,Female,RegionC,Hospital,03/04/1999
+249,2025,07/03/2025,Live birth,Female,RegionA,Hospital,02/05/1987
+251,2025,03/07/2025,Live birth,Female,RegionA,Other,12/08/1994
+258,2025,04/09/2025,Stillbirth,Female,RegionA,Home,13/02/1988
+259,2025,09/06/2025,Live birth,Female,RegionA,Other,27/08/1985
+260,2025,12/04/2025,Live birth,Male,NA,Home,11/01/2003
+262,2025,01/07/2025,Live birth,Female,RegionA,Hospital,17/12/1996
+265,2025,29/03/2025,Live birth,Female,RegionA,Other,25/03/1997
+268,2025,30/01/2025,Stillbirth,Male,RegionC,Home,01/10/1986
+272,2025,27/03/2025,Live birth,Male,RegionB,Clinic,15/02/2008
+281,2025,15/04/2025,Live birth,Male,RegionA,Home,09/10/1988
+285,2025,25/01/2025,Live birth,Male,RegionB,Hospital,16/09/1987
+286,2025,07/07/2025,Stillbirth,Female,RegionA,Clinic,25/01/2005
+294,2025,02/03/2025,Live birth,Male,RegionD,Clinic,04/11/1999
+296,2025,08/12/2025,Live birth,Male,RegionB,Other,20/05/1985
+300,2025,26/09/2025,Stillbirth,Male,NA,Home,23/09/2009
+302,2025,10/01/2025,Live birth,Female,RegionB,Clinic,29/06/2005
+303,2025,28/01/2025,Stillbirth,Female,RegionA,Clinic,29/12/1987
+309,2025,05/03/2025,Live birth,Female,RegionC,Hospital,31/03/2008
+312,2025,25/02/2025,Stillbirth,Male,RegionD,Home,12/01/1999
+314,2025,16/06/2025,Live birth,Female,RegionD,Home,16/04/1988
+315,2025,18/07/2025,Live birth,Male,RegionC,Home,10/05/1982
+320,2025,14/08/2025,Live birth,Female,RegionA,Home,11/04/2001
+321,2025,20/07/2025,Live birth,Male,RegionA,Home,20/10/1985
+323,2025,17/12/2025,Live birth,Female,RegionA,Home,12/04/1986
+324,2025,09/02/2025,Live birth,Male,RegionB,Other,15/01/1999
+327,2025,28/12/2025,Stillbirth,Female,RegionB,Clinic,04/10/1983
+344,2025,02/11/2025,Live birth,Male,RegionC,Clinic,15/03/2008
+350,2025,27/07/2025,Live birth,Female,RegionC,Hospital,31/08/2005
+352,2025,01/08/2025,Live birth,Male,RegionA,Clinic,09/08/1987
+357,2025,23/09/2025,Live birth,Female,RegionB,Other,15/05/1991
+359,2025,24/06/2025,Stillbirth,Male,RegionA,Other,01/12/1997
+366,2025,24/09/2025,Live birth,Male,RegionA,Other,05/02/1998
+369,2025,15/10/2025,Live birth,Female,RegionC,Other,15/07/1984
+370,2025,10/11/2025,Live birth,Female,RegionB,Hospital,02/06/1995
+372,2025,19/07/2025,Stillbirth,Female,RegionA,Other,09/02/1983
+373,2025,13/02/2025,Live birth,Male,RegionD,Home,16/01/1985
+374,2025,04/09/2025,Stillbirth,Male,RegionD,Home,06/05/2004
+376,2025,05/11/2025,Live birth,Male,RegionA,Clinic,20/11/1995
+378,2025,22/05/2025,Live birth,Female,NA,Clinic,14/04/1996
+381,2025,19/01/2025,Stillbirth,Male,RegionB,Hospital,28/09/2005
+384,2025,01/02/2025,Live birth,Male,RegionA,Home,13/05/1998
+386,2025,19/08/2025,Live birth,Male,RegionD,Other,07/08/2000
+387,2025,01/10/2025,Live birth,Male,RegionA,Other,14/08/2009
+391,2025,22/03/2025,Stillbirth,Male,RegionC,Home,29/05/2006
+394,2025,05/12/2025,Live birth,Female,RegionD,Clinic,15/11/1998
+397,2025,05/02/2025,Stillbirth,Female,RegionD,Clinic,25/06/1987
+403,2025,05/07/2025,Live birth,Female,RegionB,Home,10/12/1990
+409,2025,17/02/2025,Stillbirth,Male,RegionA,Clinic,05/05/1987
+410,2025,03/11/2025,Live birth,Female,RegionC,Other,24/12/1984
+412,2025,07/04/2025,Live birth,Female,RegionB,Home,20/06/1998
+415,2025,08/06/2025,Live birth,Male,RegionB,Home,17/09/2009
+416,2025,09/04/2025,Live birth,Male,RegionD,Hospital,03/09/2006
+417,2025,13/09/2025,Live birth,Male,RegionD,Home,09/03/2007
+425,2025,05/12/2025,Live birth,Female,RegionB,Clinic,10/04/2009
+427,2025,15/05/2025,Stillbirth,Male,RegionA,Home,26/12/1994
+437,2025,31/01/2025,Live birth,Male,RegionA,Other,04/05/1997
+438,2025,21/08/2025,Live birth,Male,RegionA,Other,26/12/1993
+439,2025,10/10/2025,Live birth,Female,RegionA,Home,08/03/1982
+441,2025,28/09/2025,Live birth,Female,RegionC,Hospital,15/03/2009
+443,2025,15/07/2025,Live birth,Female,RegionA,Hospital,20/01/2000
+447,2025,19/03/2025,Live birth,Male,RegionA,Other,24/07/2004
+451,2025,05/12/2025,Live birth,Female,RegionC,Clinic,02/02/1997
+452,2025,14/10/2025,Live birth,Male,RegionD,Clinic,18/12/2001
+455,2025,16/11/2025,Stillbirth,Male,RegionC,Home,12/05/1994
+456,2025,05/12/2025,Live birth,Female,RegionB,Clinic,27/04/2008
+459,2025,04/07/2025,Live birth,Male,RegionC,Other,19/02/1991
+461,2025,23/05/2025,Live birth,Female,RegionD,Other,26/04/1995
+464,2025,30/07/2025,Stillbirth,Female,RegionB,Home,05/05/1993
+466,2025,14/02/2025,Live birth,Female,RegionB,Clinic,22/11/1993
+469,2025,08/03/2025,Live birth,Female,RegionC,Home,27/07/2005
+470,2025,12/09/2025,Live birth,Male,RegionA,Other,21/01/1983
+471,2025,09/06/2025,Live birth,Female,RegionD,Home,18/03/1985
+472,2025,11/10/2025,Live birth,Male,RegionA,Other,28/08/2001
+473,2025,26/07/2025,Live birth,Male,RegionC,Clinic,19/03/1994
+475,2025,04/07/2025,Stillbirth,Male,RegionA,Other,17/09/2004
+481,2025,14/11/2025,Stillbirth,Female,RegionA,Home,10/08/2007
+482,2025,26/04/2025,Live birth,Male,RegionB,Hospital,21/05/2007
+487,2025,30/11/2025,Live birth,Male,RegionA,Hospital,22/06/1982
+489,2025,14/09/2025,Live birth,Male,RegionB,Hospital,07/10/2004
+490,2025,23/04/2025,Live birth,Male,RegionD,Home,07/09/2003
+492,2025,21/10/2025,Stillbirth,Male,RegionB,Home,21/10/2005
+496,2025,15/06/2025,Live birth,Male,RegionB,Home,27/02/1992
+497,2025,30/04/2025,Live birth,Male,RegionD,Hospital,15/06/1985
+501,2025,16/02/2025,Live birth,Female,RegionA,Clinic,09/03/1990
+506,2025,16/11/2025,Live birth,Female,RegionC,Clinic,10/01/2003
+509,2025,04/06/2025,Live birth,Male,RegionA,Hospital,20/09/1992
+510,2025,20/02/2025,Live birth,Female,RegionB,Home,04/02/1985
+512,2025,13/03/2025,Live birth,Male,RegionB,Other,16/03/2007
+514,2025,23/02/2025,Live birth,Female,RegionB,Other,21/01/2006
+523,2025,22/11/2025,Live birth,Female,RegionA,Home,18/01/2001
+524,2025,03/12/2025,Live birth,Female,RegionB,Hospital,02/02/2001
+527,2025,21/01/2025,Live birth,Female,RegionB,Other,03/09/2001
+530,2025,07/03/2025,Stillbirth,Male,RegionC,Hospital,26/12/2001
+532,2025,09/09/2025,Stillbirth,Female,RegionC,Clinic,03/04/1992
+533,2025,24/11/2025,Live birth,Female,RegionA,Clinic,25/11/1999
+535,2025,09/01/2025,Live birth,Male,RegionD,Clinic,02/01/2009
+539,2025,21/09/2025,Live birth,Male,RegionA,Home,06/09/1995
+541,2025,18/07/2025,Live birth,Female,RegionA,Other,07/02/1985
+545,2025,17/04/2025,Live birth,Male,RegionA,Other,14/03/2005
+546,2025,04/01/2025,Live birth,Male,RegionB,Home,25/03/1995
+549,2025,28/08/2025,Live birth,Male,RegionD,Home,06/09/1986
+550,2025,18/09/2025,Live birth,Female,RegionD,Clinic,15/11/1989
+551,2025,14/01/2025,Live birth,Female,RegionA,Home,28/06/2007
+557,2025,28/09/2025,Live birth,Female,RegionC,Clinic,16/04/2008
+562,2025,21/10/2025,Live birth,Male,RegionD,Clinic,20/11/1996
+564,2025,01/09/2025,Live birth,Female,RegionA,Hospital,14/08/1996
+565,2025,21/03/2025,Live birth,Female,RegionB,Other,25/02/1996
+567,2025,20/04/2025,Stillbirth,Female,RegionA,Other,26/07/1985
+569,2025,02/09/2025,Live birth,Male,RegionA,Home,10/03/2006
+570,2025,24/11/2025,Live birth,Female,RegionA,Other,24/02/1997
+573,2025,20/09/2025,Live birth,Male,RegionD,Home,30/06/1996
+574,2025,19/11/2025,Stillbirth,Male,RegionA,Other,13/06/1984
+576,2025,31/01/2025,Live birth,Male,RegionA,Clinic,02/01/1994
+584,2025,24/11/2025,Live birth,Female,RegionB,Clinic,10/07/1987
+585,2025,16/10/2025,Stillbirth,Male,RegionD,Home,25/02/1989
+591,2025,07/05/2025,Stillbirth,Female,RegionD,Home,24/06/1994
+592,2025,21/11/2025,Live birth,Female,RegionC,Other,18/09/1995
+600,2025,23/07/2025,Live birth,Female,RegionA,Other,21/05/2003
+601,2025,21/04/2025,Stillbirth,Male,RegionC,Other,07/12/2003
+602,2025,06/05/2025,Stillbirth,Male,RegionA,Other,25/10/1991
+603,2025,16/05/2025,Live birth,Male,RegionB,Other,19/03/2000
+606,2025,21/01/2025,Live birth,Female,RegionD,Home,16/04/1989
+607,2025,13/05/2025,Stillbirth,Male,RegionC,Clinic,05/03/2004
+609,2025,03/11/2025,Live birth,Female,RegionB,Clinic,10/08/2009
+610,2025,03/10/2025,Live birth,Female,RegionB,Home,25/03/1989
+611,2025,01/02/2025,Live birth,Male,RegionC,Home,29/10/1988
+614,2025,04/01/2025,Live birth,Male,RegionA,Clinic,21/10/2003
+616,2025,23/03/2025,Live birth,Female,RegionA,Home,30/06/2004
+617,2025,24/07/2025,Live birth,Male,NA,Clinic,11/02/1994
+619,2025,28/11/2025,Live birth,Male,RegionD,Hospital,18/03/2008
+623,2025,27/03/2025,Live birth,Female,RegionA,Other,07/04/1986
+626,2025,22/05/2025,Live birth,Female,RegionC,Clinic,16/04/1997
+628,2025,11/08/2025,Live birth,Male,RegionD,Hospital,13/08/1991
+632,2025,27/04/2025,Live birth,Male,RegionB,Clinic,14/05/2007
+633,2025,17/02/2025,Live birth,Female,RegionB,Hospital,15/07/2008
+634,2025,25/01/2025,Live birth,Male,RegionB,Home,25/09/2004
+636,2025,14/10/2025,Stillbirth,Female,RegionD,Hospital,03/12/2004
+640,2025,01/11/2025,Live birth,Female,RegionC,Other,15/01/2001
+644,2025,02/07/2025,Live birth,Female,RegionB,Home,08/12/1999
+645,2025,16/08/2025,Live birth,Female,RegionA,Home,10/10/1982
+647,2025,30/05/2025,Stillbirth,Male,RegionB,Clinic,15/04/2000
+649,2025,19/03/2025,Live birth,Male,RegionB,Hospital,03/09/1985
+651,2025,19/12/2025,Stillbirth,Female,RegionA,Hospital,10/04/1991
+658,2025,03/06/2025,Live birth,Female,RegionA,Home,04/04/1989
+665,2025,17/06/2025,Live birth,Female,RegionB,Hospital,31/01/1990
+666,2025,12/02/2025,Stillbirth,Male,RegionB,Clinic,10/09/1995
+670,2025,16/04/2025,Stillbirth,Male,RegionC,Clinic,28/02/2002
+672,2025,24/02/2025,Stillbirth,Female,RegionD,Clinic,24/11/1991
+673,2025,13/12/2025,Live birth,Female,RegionA,Home,26/08/1999
+674,2025,26/12/2025,Stillbirth,Female,RegionA,Clinic,18/04/2005
+678,2025,30/04/2025,Live birth,Female,RegionC,Hospital,25/03/1993
+682,2025,01/12/2025,Live birth,Male,RegionA,Hospital,16/03/1999
+683,2025,25/12/2025,Live birth,Female,RegionC,Home,23/07/1993
+685,2025,18/09/2025,Stillbirth,Female,RegionD,Home,14/11/1988
+687,2025,17/05/2025,Live birth,Female,RegionB,Hospital,06/04/2005
+688,2025,04/05/2025,Stillbirth,Female,RegionA,Hospital,19/02/1991
+690,2025,01/09/2025,Live birth,Female,RegionA,Hospital,08/01/1995
+694,2025,01/03/2025,Stillbirth,Female,RegionB,Hospital,17/09/1989
+701,2025,24/01/2025,Live birth,Male,RegionB,Home,26/09/1989
+704,2025,04/02/2025,Stillbirth,Female,RegionC,Other,11/04/1983
+706,2025,25/12/2025,Live birth,Male,RegionA,Home,22/12/1990
+712,2025,01/03/2025,Live birth,Male,RegionC,Clinic,05/09/1988
+713,2025,09/03/2025,Stillbirth,Male,RegionB,Home,26/08/1988
+718,2025,05/01/2025,Live birth,Female,RegionA,Home,07/10/1994
+719,2025,04/08/2025,Live birth,Male,RegionC,Clinic,07/02/1985
+720,2025,28/03/2025,Live birth,Female,RegionA,Clinic,21/10/2004
+729,2025,15/05/2025,Live birth,Female,RegionB,Other,25/08/1994
+732,2025,20/03/2025,Stillbirth,Female,RegionD,Other,25/06/1997
+734,2025,14/09/2025,Stillbirth,Male,RegionD,Other,30/12/1987
+735,2025,16/01/2025,Live birth,Male,RegionB,Other,16/09/2002
+736,2025,16/08/2025,Live birth,Female,RegionA,Clinic,26/05/2003
+739,2025,25/07/2025,Stillbirth,Female,RegionA,Home,15/08/2004
+742,2025,31/05/2025,Stillbirth,Female,RegionD,Other,02/10/1990
+745,2025,08/08/2025,Live birth,Female,RegionA,Clinic,01/03/2005
+754,2025,24/10/2025,Live birth,Female,RegionA,Other,15/10/1983
+758,2025,08/05/2025,Live birth,Male,RegionC,Home,06/10/1990
+760,2025,09/12/2025,Live birth,Female,RegionC,Home,12/02/1984
+763,2025,16/02/2025,Live birth,Female,RegionA,Other,05/12/1985
+769,2025,31/03/2025,Stillbirth,Male,RegionA,Clinic,30/04/1998
+770,2025,18/03/2025,Live birth,Female,RegionA,Hospital,03/07/1985
+771,2025,20/12/2025,Live birth,Male,RegionC,Home,20/07/2006
+773,2025,27/05/2025,Live birth,Female,RegionA,Hospital,03/05/2008
+777,2025,11/12/2025,Live birth,Female,RegionA,Clinic,23/05/1991
+786,2025,16/09/2025,Live birth,Male,RegionC,Clinic,11/09/1992
+787,2025,16/03/2025,Live birth,Female,RegionD,Home,13/01/1998
+794,2025,21/06/2025,Live birth,Male,NA,Home,25/09/2007
+795,2025,22/02/2025,Stillbirth,Male,RegionA,Home,30/06/2002
+798,2025,24/07/2025,Live birth,Male,RegionA,Other,07/07/1988
+803,2025,30/11/2025,Live birth,Male,RegionC,Hospital,25/08/1998
+805,2025,13/04/2025,Live birth,Female,RegionB,Home,05/05/1991
+806,2025,11/03/2025,Stillbirth,Female,RegionD,Other,24/01/1984
+807,2025,26/03/2025,Stillbirth,Female,RegionA,Other,13/02/2005
+815,2025,12/08/2025,Live birth,Female,RegionA,Other,10/11/1987
+819,2025,29/05/2025,Stillbirth,Male,RegionA,Home,11/12/1993
+829,2025,13/10/2025,Stillbirth,Female,RegionB,Clinic,17/03/1993
+832,2025,14/01/2025,Live birth,Female,RegionC,Home,16/06/1999
+836,2025,08/09/2025,Live birth,Male,RegionB,Other,29/09/1992
+842,2025,17/12/2025,Live birth,Female,RegionC,Home,05/06/1988
+844,2025,14/02/2025,Stillbirth,Male,RegionD,Other,31/12/1984
+845,2025,28/07/2025,Stillbirth,Female,RegionB,Hospital,11/05/1986
+847,2025,05/07/2025,Live birth,Female,RegionA,Clinic,27/09/2004
+851,2025,18/11/2025,Live birth,Female,RegionA,Home,13/05/1994
+854,2025,08/03/2025,Live birth,Female,RegionB,Hospital,01/12/2009
+856,2025,03/01/2025,Live birth,Male,RegionC,Home,11/11/1985
+858,2025,14/09/2025,Live birth,Male,RegionA,Other,03/10/1982
+861,2025,10/07/2025,Live birth,Female,RegionD,Hospital,19/01/1989
+862,2025,19/03/2025,Live birth,Male,RegionA,Home,01/07/1986
+863,2025,26/05/2025,Stillbirth,Male,RegionB,Hospital,12/02/1992
+865,2025,25/07/2025,Live birth,Male,RegionB,Other,01/12/1989
+874,2025,14/05/2025,Live birth,Male,RegionD,Other,26/05/1992
+876,2025,27/12/2025,Live birth,Male,RegionB,Clinic,30/07/2009
+878,2025,13/07/2025,Stillbirth,Male,RegionA,Home,18/07/1985
+879,2025,08/09/2025,Live birth,Female,RegionD,Clinic,28/08/1993
+880,2025,30/01/2025,Live birth,Female,RegionD,Clinic,12/12/1986
+881,2025,18/06/2025,Live birth,Male,RegionD,Other,18/12/1994
+893,2025,08/02/2025,Live birth,Male,RegionC,Clinic,22/09/1982
+894,2025,26/05/2025,Stillbirth,Male,RegionA,Hospital,12/10/1990
+895,2025,29/11/2025,Live birth,Female,RegionC,Hospital,07/09/1987
+897,2025,29/06/2025,Live birth,Female,RegionA,Home,06/12/1983
+902,2025,09/12/2025,Stillbirth,Male,RegionD,Hospital,28/11/1982
+904,2025,14/10/2025,Live birth,Female,RegionA,Other,21/09/1999
+905,2025,28/02/2025,Live birth,Female,RegionC,Clinic,03/06/1992
+906,2025,31/01/2025,Live birth,Male,RegionC,Other,23/10/1982
+909,2025,22/07/2025,Stillbirth,Female,RegionB,Hospital,04/08/1987
+914,2025,02/01/2025,Live birth,Female,RegionB,Home,14/12/2008
+926,2025,12/06/2025,Live birth,Female,RegionC,Clinic,11/06/1995
+927,2025,19/09/2025,Stillbirth,Male,RegionD,Clinic,04/04/1996
+928,2025,28/05/2025,Live birth,Female,RegionB,Other,20/10/1997
+931,2025,17/12/2025,Stillbirth,Female,RegionD,Hospital,18/02/1990
+932,2025,08/02/2025,Stillbirth,Male,RegionB,Hospital,23/10/1998
+934,2025,03/06/2025,Stillbirth,Male,RegionB,Clinic,27/05/1991
+935,2025,11/01/2025,Live birth,Female,RegionA,Clinic,06/08/1995
+936,2025,09/11/2025,Live birth,Male,RegionA,Other,08/03/1983
+944,2025,05/04/2025,Live birth,Male,RegionA,Home,28/08/1997
+945,2025,24/11/2025,Stillbirth,Female,RegionD,Other,09/09/2005
+946,2025,03/05/2025,Live birth,Female,RegionD,Clinic,03/10/2009
+950,2025,11/02/2025,Live birth,Male,RegionB,Clinic,04/11/2004
+952,2025,28/09/2025,Stillbirth,Male,RegionC,Hospital,25/06/1991
+953,2025,28/02/2025,Stillbirth,Female,RegionD,Home,22/08/1986
+954,2025,12/07/2025,Stillbirth,Male,RegionA,Home,20/09/1982
+957,2025,29/06/2025,Stillbirth,Female,NA,Clinic,21/05/2000
+960,2025,22/01/2025,Live birth,Female,RegionC,Clinic,25/07/2002
+965,2025,22/11/2025,Live birth,Male,RegionC,Hospital,20/09/2002
+967,2025,06/03/2025,Live birth,Female,RegionC,Other,19/08/1982
+968,2025,08/06/2025,Live birth,Male,NA,Other,24/09/2004
+972,2025,14/02/2025,Live birth,Female,RegionA,Home,25/09/1998
+977,2025,13/01/2025,Live birth,Female,RegionA,Other,15/06/2002
+981,2025,26/11/2025,Stillbirth,Female,NA,Hospital,20/03/1989
+984,2025,11/01/2025,Live birth,Male,RegionC,Hospital,16/06/1999
+988,2025,22/09/2025,Live birth,Male,RegionC,Clinic,23/01/2001
+990,2025,16/10/2025,Live birth,Female,RegionA,Clinic,25/08/1983
+991,2025,06/12/2025,Stillbirth,Female,RegionB,Hospital,05/04/1984
+998,2025,08/06/2025,Live birth,Female,RegionA,Other,19/01/2009
+999,2025,19/02/2025,Stillbirth,Male,RegionC,Home,02/12/1988
