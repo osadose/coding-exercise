@@ -22,7 +22,7 @@ project/
 ```
 
 
-## Quick start for analysts
+# Quick start 
 
 1. Ensure the `data/` folder contains `data_YYYY.csv` for the year(s) you want to process and `pop_data.csv`.
 2. Review `docs/data_dictionary.xlsx` for field definitions and validation rules before touching the source data.
